@@ -1,3 +1,5 @@
+# Cantor Keyboard Remix MX Switch Version(36 keys)
+
 ![Cantor Keyboard](assets/cantor-remix-mx.jpg)
 
 
